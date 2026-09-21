@@ -27,5 +27,9 @@
     Ausgaben:Mensa:Kaffee                    2.00 EUR
 
 2026-09-21 Essen
-    Bank:c24:Girokonto                      -8.60 EUR
+    Bank:C24:Girokonto                      -8.60 EUR
     Ausgaben:Mensa:Essen                     8.60 EUR
+
+2026-09-21 Weihnachtsfeier
+    Bargeld                                 -15.00 EUR
+    Ausgaben:Arbeit:Feier                    15.00 EUR
