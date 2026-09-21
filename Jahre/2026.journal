@@ -1,0 +1,27 @@
+2026-09-17 Anfangssaldo
+    Eigenkapital
+    Bank:C24:Girokonto      17.88 EUR
+    Bank:C24:Tagesgeld     552.35 EUR
+    Bank:DKB:Girokonto     225.30 EUR
+    Bargeld                 15.00 EUR
+
+
+2026-09-21 Blutspende
+    Bargeld                                  20.00 EUR
+    Einnahmen:Haema:Blutspende              -20.00 EUR
+
+2026-09-19 Binding of Isaac - DLCs
+    Bank:DKB:Girokonto                      -33.47 EUR
+    Ausgaben:Hobby:Steam                     33.47 EUR
+
+2026-09-20 Drogeriemarkt
+    Bank:DKB:Girokonto                      -40.00 EUR
+    Ausgaben:Einkaufen:Drogeriemarkt         40.00 EUR
+
+2026-09-15 TerraSports
+    Bank:DKB:Girokonto                      -19.90 EUR
+    Ausgaben:Sport:TerraSports               19.90 EUR
+
+2026-09-21 Kaffee
+    Bank:C24:Girokonto                     - 2.00 EUR
+    Ausgaben:Mensa:Kaffee                    2.00 EUR

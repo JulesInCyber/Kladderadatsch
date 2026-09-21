@@ -1,0 +1,9 @@
+account Bank:C24:Girokonto  ; type: A
+account Bank:C24:Tagesgeld  ; type: A
+account Bank:DKB:Girokonto  ; type: A
+account Ausgaben            ; type: X
+account Einnahmen           ; type: R
+account Eigenkapital        ; type: E 
+account Fremdkapital        ; type: L
+
+account Bargeld             ; type: C

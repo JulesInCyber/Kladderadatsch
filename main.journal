@@ -1,0 +1,8 @@
+# Globale Definitionen
+include accounts.journal
+# include prices.journal 
+
+# Jahreweise Transaktionen
+include Jahre/2026.journal
+
+
