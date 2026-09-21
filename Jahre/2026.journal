@@ -23,5 +23,9 @@
     Ausgaben:Sport:TerraSports               19.90 EUR
 
 2026-09-21 Kaffee
-    Bank:C24:Girokonto                     - 2.00 EUR
+    Bank:C24:Girokonto                      -2.00 EUR
     Ausgaben:Mensa:Kaffee                    2.00 EUR
+
+2026-09-21 Essen
+    Bank:c24:Girokonto                      -8.60 EUR
+    Ausgaben:Mensa:Essen                     8.60 EUR
