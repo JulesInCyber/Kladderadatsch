@@ -59,3 +59,22 @@
     Bank:C24:Girokonto                       15.00 EUR
     Bank:C24:Girokonto                       -8.10 EUR
     Ausgaben:Mensa:Essen                      8.10 EUR
+
+2026-09-30 Snacks
+    Bank:DKB:Girokonto                      -20.57 EUR
+    Ausgabe:Essen:Snacks                   20.57 EUR
+
+2026-09-30 Neues Gehalt
+    Bank:DKB:Girokonto                  2814.74 EUR
+    Einnahmen:Gehalt                    -2814.74 EUR
+    Bank:DKB:Girokonto                  -57.56 EUR
+    Bank:C24:Tagesgeld                   57.56 EUR
+
+2026-10-01 Fixkosten
+    Bank:DKB:Girokonto
+    Ausgaben:Haushalt:Fixkosten    1596.00 EUR
+    Ausgaben:Sparen:Depot               150.00 EUR
+    Ausgaben:Hobby:Musik                    5.99 EUR
+    Ausgaben:Sparen                         675.00 EUR
+    Bank:C24:Girokonto                      100.00 EUR
+
