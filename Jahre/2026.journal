@@ -52,7 +52,7 @@
 
 2026-09-28 Essen
     Bank:C24:Girokonto                       -5.30 EUR
-    Ausgaben:Mensa:Essen                      5.30 EUR
+    Ausgaben:Essen:Mensa                      5.30 EUR
 
 2026-09-29 Essen
     Bank:C24:Tagesgeld                      -15.00 EUR
@@ -85,3 +85,11 @@
 2026-10-01 Zinsen
     Bank:C24:Tagesgeld                        0.26 EUR
     Einnahmen:Zinsen
+
+2026-10-02 Busfahrt - Arbeit
+    Bank:DKB:Girokonto                      -5.20 EUR
+    Ausgaben:Mobilität:ÖPNV
+
+2026-10-02 Mittagessen
+    Bank:C24:Girokonto                      -8.00 EUR
+    Ausgaben:Essen:Mensa
