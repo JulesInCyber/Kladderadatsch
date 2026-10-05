@@ -61,8 +61,8 @@
     Ausgaben:Mensa:Essen                      8.10 EUR
 
 2026-09-30 Snacks
-    Bank:DKB:Girokonto                      -20.57 EUR
-    Ausgabe:Essen:Snacks                     20.57 EUR
+    Bank:DKB:Girokonto                      -20.49 EUR
+    Ausgabe:Essen:Snacks                     20.49 EUR
 
 2026-09-30 Neues Gehalt
     Bank:DKB:Girokonto                     2814.74 EUR
@@ -90,6 +90,23 @@
     Bank:DKB:Girokonto                      -5.20 EUR
     Ausgaben:Mobilität:ÖPNV
 
+2020-10-02 TerraSports
+    Bank:DKB:Girokonto                      -19.90 EUR
+    Ausgaben:Sport:TerraSports               19.90 EUR
+
+
 2026-10-02 Mittagessen
     Bank:C24:Girokonto                      -8.00 EUR
     Ausgaben:Essen:Mensa
+
+2026-10-02 Anthropic - Claude
+    Bank:C24:Girokonto                     -21.42 EUR
+    Ausgaben:Technik:KI
+
+2026-10-04 Kaffee
+    Bank:C24:Girokonto                      -9.70 EUR
+    Ausgaben:Ausgehen:Kaffee
+
+2026-10-05 Differenz
+    Bank:C24:Girokonto                      26.00 EUR
+    Ausgaben:Differenz
