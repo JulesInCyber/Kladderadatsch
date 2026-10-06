@@ -83,7 +83,7 @@
     Bank:C24:Tagesgeld                       33.88 EUR
 
 2026-10-01 Zinsen
-    Bank:C24:Tagesgeld                        0.26 EUR
+    Bank:C24:Tagesgeld                        0.35 EUR
     Einnahmen:Zinsen
 
 2026-10-02 Busfahrt - Arbeit
@@ -110,3 +110,11 @@
 2026-10-05 Differenz
     Bank:C24:Girokonto                      26.00 EUR
     Ausgaben:Differenz
+
+2026-10-06 Verpflegung
+    Ausgaben:Mensa:Getränke                  5.15 EUR
+    Ausgaben:Essen:Mensa                     5.80 EUR
+    Ausgaben:Ausgehen:Getränke               3.90 EUR
+    Bank:C24:Girokonto
+
+
