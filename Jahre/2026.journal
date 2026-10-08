@@ -111,10 +111,31 @@
     Bank:C24:Girokonto                      26.00 EUR
     Ausgaben:Differenz
 
-2026-10-06 Verpflegung
+2026-10-05 Verpflegung
     Ausgaben:Mensa:Getränke                  5.15 EUR
     Ausgaben:Essen:Mensa                     5.80 EUR
     Ausgaben:Ausgehen:Getränke               3.90 EUR
     Bank:C24:Girokonto
 
+2026-10-06 Mittagessen
+    Ausgaben:Essen:Mensa                     6.60 EUR
+    Bank:C24:Girokonto
 
+2026-10-07 Gutschein - Jana
+    Ausgaben:Geschenke                      10.00 EUR
+    Bank:C24:Girokonto
+
+2026-10-07 Mittagessen
+    Ausgaben:Essen:Mensa                     6.20 EUR
+    Bank:C24:Girokonto
+
+2026-10-07 Diverse Einkäufe
+    Ausgaben:Mobilität:Fahrrad              58.95 EUR
+    Ausgaben:Freizeit:Eis                    4.40 EUR
+    Ausgaben:Kleidung:Socken                11.34 EUR
+    Ausgaben:Essen:Snacks                    9.71 EUR
+    Bank:DKB:Girokonto
+
+2026-10-09 TerraSports
+    Ausgaben:Sport:TerraSports              19.90 EUR
+    Bank:DKB:Girokonto
