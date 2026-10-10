@@ -1,0 +1,45 @@
+; hledger -f fixkosten.journal aregister bank:dkb:girokonto -p thismonth --forecast=thismonth
+; hledger -f fixkosten.journal bal -p thismonth --forecast=thismonth Bank:DKB:Girokonto
+
+include accounts.journal
+;   ----------
+;   Einnahmen
+;   ----------
+
+~ monthly   Gehalt
+    Bank:DKB:Girokonto      2814.74 EUR
+    Einnahmen:Gehalt
+
+;   ----------
+;   Ausgaben
+;   ----------
+
+~ monthly   Fixkosten
+    Ausgaben:Haushalt:Fixkosten     1596.00 EUR
+    Bank:DKB:Girokonto
+
+~ monthly   Sparen
+    Ausgaben:Sparen:Depot       150.00 EUR
+    Ausgaben:Sparen:Familie     675.00 EUR
+    Bank:DKB:Girokonto
+
+~ monthly   Taschengeld
+    Bank:C24:Girokonto  100.00 EUR
+    Bank:DKB:Girokonto
+
+~ monthly   Apple
+    Ausgaben:Hobby:Musik    5.99 EUR
+    Ausgaben:Technik:Cloud  2.99 EUR
+    Bank:DKB:Girokonto
+
+~ monthly   Handy
+    Ausgaben:Technik:Mobilfunk  10.00 EUR
+    Bank:C24:Girokonto
+
+~ monthly   Bouldern
+    Ausgaben:Sport:Bouldern  39.90 EUR
+    Bank:DKB:Girokonto
+
+~ weekly   TerraSports
+    Ausgaben:Sport:TerraSports  19.90 EUR
+    Bank:DKB:Girokonto
