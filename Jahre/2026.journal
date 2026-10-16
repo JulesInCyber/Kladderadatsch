@@ -143,3 +143,36 @@
 2026-10-12 fraenk
     Ausgaben:Technik:Mobilfunk              10.00 EUR
     Bank:C24:Girokonto
+
+2026-10-12 Umbuchung
+    Bank:C24:Tagesgeld                     -10.00 EUR
+    Bank:C24:Girokonto
+
+2026-10-12 Disney
+    Bank:C24:Tagesgeld                      -8.99 EUR
+    Ausgaben:Streaming:DisneyPlus
+
+2026-10-12 Lebensmittel
+    Ausgaben:Essen:Snacks                    7.78 EUR
+    Ausgaben:Essen:Eis                       2.30 EUR
+    Ausgaben:Essen:Snacks                   13.92 EUR
+    Bank:C24:Girokonto
+
+2026-10-12 Differenz
+    Ausgaben:Differenz                      10.00 EUR
+    Bank:C24:Tagesgeld
+
+2026-10-14 Essen
+    Ausgaben:Essen:Getränke                  2.90 EUR
+    Ausgaben:Essen:Snacks                    8.47 EUR
+    Bank:DKB:Girokonto
+
+2026-10-15 Diverse
+    Ausgaben:Technik:Cloud                   2.99 EUR
+    Ausgaben:Mobilität:Fahrrad               9.90 EUR
+    Ausgaben:Essen:Snacks                   14.04 EUR
+    Bank:DKB:Girokonto
+
+2026-10-16 TerraSports
+    Ausgaben:Sport:TerraSports              19.90 EUR
+    Bank:DKB:Girokonto
