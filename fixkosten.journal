@@ -15,12 +15,12 @@ include accounts.journal
 ;   ----------
 
 ~ monthly   Fixkosten
-    Ausgaben:Haushalt:Fixkosten     1596.00 EUR
+    Ausgaben:Haushalt:Fixkosten     1600.00 EUR
     Bank:DKB:Girokonto
 
 ~ monthly   Sparen
-    Ausgaben:Sparen:Depot       150.00 EUR
-    Ausgaben:Sparen:Familie     700.00 EUR
+    Ausgaben:Sparen:Depot       200.00 EUR
+    Ausgaben:Sparen:Familie     750.00 EUR
     Bank:DKB:Girokonto
 
 ~ monthly   Taschengeld
