@@ -10,7 +10,7 @@ def parse_input(line: str) -> tuple[str, str | None]:
         parsed = (parsed[0], None)
     elif len(parsed) == 0:
         parsed = ("",None)
-    return parsed
+    return tuple(parsed)
 
 def add_item(items: list[str], item: str) -> str:
     """ Add Item(s) to a list)"""
@@ -56,8 +56,11 @@ if __name__ == "__main__":
             if item == None:
                 print("No item specified")
             else:
-                removed_item = remove_item(shopping_list, item)
-                print(removed_item)
+                if item in shopping_list:
+                    removed_item = remove_item(shopping_list, item)
+                    print(removed_item)
+                else:
+                    print(f"{item} is not on the list")
 
         elif command == "list":
             joined_list = format_list(shopping_list)
@@ -70,3 +73,5 @@ if __name__ == "__main__":
             print("Bye")
             break
 
+        else:
+            print("Unknown Command. Try add, remove, list or quit")
