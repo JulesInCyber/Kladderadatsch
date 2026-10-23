@@ -1,10 +1,10 @@
 def average(*numbers):
-    avg = 0
+    total = 0
     for i in numbers:
-        avg += i
+        total += i
     try:
-        avg = avg / len(numbers)
-    except:
+        avg = total / len(numbers)
+    except ZeroDivisionError:
         avg = None
     return avg
 
